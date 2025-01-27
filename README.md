@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Josue Monte]
+# ¡Hola! Soy Josue Monte
 
 👨‍💻 **Científico de Datos con conocimientos en Machine Learning**
 
