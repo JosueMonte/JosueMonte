@@ -29,5 +29,3 @@ Actualmente, me dedico a gestionar el patrimonio familiar, a la creación de pro
 📧 Email: [josue.monte@outlook.com](mailto:josue.monte@outlook.com)
 💼 [LinkedIn](https://www.linkedin.com/in/josuemonte)
 🚀 [GitHub](https://github.com/JosueMonte)
-
-🚀 [GitHub](https://github.com/tu-usuario) 🎸
