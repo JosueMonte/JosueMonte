@@ -1,4 +1,4 @@
-# ¡Hola! Soy Josue Monte
+# ¡Bienvenido a mis proyectos!
 
 👨‍💻 **Científico de Datos con conocimientos en Machine Learning**
 
@@ -8,7 +8,7 @@ He desarrollado un sistema de recomendación de películas en un proyecto de MLO
 
 Inicié mi carrera en la ingeniería mecánica, donde trabajé durante más de 5 años resolviendo problemas y diseñando soluciones para equipos electromecánicos, siempre buscando la eficiencia en los procesos. Al mismo tiempo, descubrí una pasión por la ciencia de datos y los mercados financieros. La combinación de mi experiencia técnica con el análisis de datos y las tendencias de mercado me ha fascinado por su capacidad de transformar industrias y ofrecer insights valiosos.
 
-📊 **Enfoque en Machine Learning**
+
 
 Mi capacidad analítica aplicada a modelos de machine learning en la industria de mercados financieros es mi diferenciador clave. Integro técnicas de programación para gestionar el patrimonio de forma sistemática.
 
@@ -25,6 +25,7 @@ Actualmente, me dedico a gestionar el patrimonio familiar, a la creación de pro
 ---
 
 # Conecta Conmigo
+
 
 📧 Email: [josue.monte@outlook.com](mailto:josue.monte@outlook.com)
 💼 [LinkedIn](https://www.linkedin.com/in/josuemonte)
