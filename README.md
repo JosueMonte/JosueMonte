@@ -6,7 +6,7 @@ Soy ingeniero mecánico de profesión, pero mi pasión por las matemáticas y el
 
 Mi capacidad analítica aplicada a modelos de Machine Learning en la industria de mercados financieros es mi diferenciador clave. Integro técnicas de programación para gestionar el patrimonio de forma sistemática.
 
-🎓 **Enfocado en Proyectos Innovadores y Educación Continuada**
+🎓 **Enfocado en Proyectos Innovadores y Educación Continua**
 
 Actualmente, me dedico a gestionar el patrimonio familiar, crear proyectos en GitHub y generar contenido en YouTube. Aspiro a integrar mi experiencia en ingeniería mecánica con mis competencias en ciencia de datos, aportando valor, innovación y eficiencia a la sociedad. Si crees que puedo aportar a tu equipo de trabajo o empresa, no dudes en contactarme.
 
