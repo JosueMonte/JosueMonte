@@ -1,19 +1,18 @@
 # ¡Bienvenido a mi espacio de proyectos!
 
-👨‍💻 **Científico de Datos con conocimientos en Machine Learning**
+👨‍💻 **Científico de Datos con experiencia en Machine Learning y Bases de Datos**
 
-Soy ingeniero mecánico de profesión, pero mi pasión por las matemáticas y el análisis de datos me llevó a incursionar en Data Science. En los últimos meses, he desarrollado un sistema de recomendación de películas en un proyecto de MLOps, desplegando la API en Render. Además, he realizado un análisis de inversión en telecomunicaciones y creado un Dashboard en Power BI para la toma de decisiones. En mi proyecto final en Henry, colaboré con 5 compañeros más en el desarrollo de un sistema de recomendación de restaurantes, que incluye una API y un tablero interactivo de control para toma de decisiones gerenciales.
+Soy ingeniero mecánico de profesión, con un máster en mercados financieros y una pasión por las matemáticas, el análisis de datos y la tecnología. Tras graduarme del bootcamp de Henry, he combinado mis habilidades analíticas con herramientas como Python, MySQL y Power BI para desarrollar soluciones innovadoras. Entre mis proyectos destacan un sistema de recomendación de películas (MLOps con API en Render), un análisis de inversiones en telecomunicaciones y un dashboard interactivo en Power BI. En mi proyecto final en Henry, colaboré con un equipo de 6 personas para crear un sistema de recomendación de restaurantes, integrando una API y un tablero de control para decisiones gerenciales.
 
-Mi capacidad analítica aplicada a modelos de Machine Learning en la industria de mercados financieros es mi diferenciador clave. Integro técnicas de programación para gestionar el patrimonio de forma sistemática.
+Mi diferenciador clave es mi capacidad para aplicar modelos de Machine Learning, trabajar con bases de datos relacionales y crear dashboards analizar inversiones en los mercados financieros, optimizando la gestión patrimonial de forma sistemática.
 
-🎓 **Enfocado en Proyectos Innovadores y Educación Continua**
+🎓 **Enfocado en Innovación y Educación Continua**
 
-Actualmente, me dedico a gestionar el patrimonio familiar, crear proyectos en GitHub y generar contenido en YouTube. Aspiro a integrar mi experiencia en ingeniería mecánica con mis competencias en ciencia de datos, aportando valor, innovación y eficiencia a la sociedad. Si crees que puedo aportar a tu equipo de trabajo o empresa, no dudes en contactarme.
-
+Me dedico a gestionar el patrimonio familiar, desarrollar proyectos en GitHub y crear contenido en YouTube. Mi objetivo es fusionar mi experiencia en ingeniería y ciencia de datos para aportar valor a empresas en áreas como BI, finanzas y tecnología. Si crees que puedo contribuir a tu equipo, ¡contáctame! Estoy abierto a colaborar y seguir aprendiendo.
 ---
 
 # Conecta Conmigo
 
 📧 Email: [josue.monte@outlook.com](mailto:josue.monte@outlook.com)
 💼 [LinkedIn](https://www.linkedin.com/in/josuemonte)
-🚀 [GitHub](https://github.com/JosueMonte)
+🚀 [Portfolio](https://josuemonte.github.io)
