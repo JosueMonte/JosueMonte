@@ -8,10 +8,10 @@ Mi diferenciador clave es mi capacidad para aplicar modelos de Machine Learning,
 
 🎓 **Enfocado en Innovación y Educación Continua**
 
-
+Me dedico a gestionar el patrimonio familiar, desarrollar proyectos en GitHub y crear contenido en YouTube. Mi objetivo es fusionar mi experiencia en ingeniería y ciencia de datos para aportar valor a empresas en áreas como BI, finanzas y tecnología. Si crees que puedo contribuir a tu equipo, ¡contáctame! Estoy abierto a colaborar y seguir aprendiendo.
 ---
 
-## Conecta Conmigo
+## Conecta conmigo
 
 📧 Email: [josue.monte@outlook.com](mailto:josue.monte@outlook.com)
 💼 [LinkedIn](https://www.linkedin.com/in/josuemonte)
