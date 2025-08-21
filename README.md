@@ -6,7 +6,7 @@ Soy ingeniero mecánico de profesión, con un máster en mercados financieros y 
 
 Mi diferenciador clave es mi capacidad para aplicar modelos de Machine Learning, trabajar con bases de datos relacionales y crear dashboards analizar inversiones en los mercados financieros, optimizando la gestión patrimonial de forma sistemática.
 
-Actualmente, me dedico a gestionar el patrimonio familiar, desarrollar proyectos en GitHub y crear contenido en YouTube. Mi objetivo es fusionar mi experiencia en ingeniería y ciencia de datos para aportar valor a empresas en áreas como BI, finanzas y tecnología. Si crees que puedo contribuir a tu equipo, ¡contáctame! Estoy abierto a colaborar y seguir aprendiendo.
+Actualmente, me dedico a los mercados financieros y desarrollar proyectos en GitHub. Mi objetivo es fusionar mi experiencia en ingeniería y ciencia de datos para aportar valor a empresas en áreas como BI, finanzas y tecnología. Si crees que puedo contribuir a tu equipo, ¡contáctame! Estoy abierto a colaborar y seguir aprendiendo.
 
 ---
 
